@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:game_mini_2/data/app_color.dart';
+import 'package:game_mini_2/model/play_game_model.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';
 
 
